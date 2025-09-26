@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore mp4 video files
+*.mp4
+*.mov
+
+# Ignore .idea files
+.idea/
